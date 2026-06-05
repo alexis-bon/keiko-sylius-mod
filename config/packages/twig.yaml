@@ -3,10 +3,3 @@ twig:
     debug: '%kernel.debug%'
     strict_variables: '%kernel.debug%'
 
-services:
-    _defaults:
-        public: false
-        autowire: true
-        autoconfigure: true
-
-    Twig\Extra\Intl\IntlExtension: ~
