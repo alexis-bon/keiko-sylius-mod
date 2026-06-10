@@ -26,7 +26,7 @@
     "require": {
         "php": "^8.0",
         "http-interop/http-factory-guzzle": "^1.2",
-        "sylius/sylius": "~2.0.0",
+        "sylius/sylius": "~2.2.6",
         "symfony/dotenv": "^5.4 || ^6.0",
         "symfony/flex": "^2.1",
         "symfony/runtime": "^5.4 || ^6.0"
