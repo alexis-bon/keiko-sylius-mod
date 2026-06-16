@@ -33,7 +33,7 @@
     },
     "require-dev": {
         "behat/behat": "~3.22.0",
-        "behat/gherkin": "~4.12.0",
+        "behat/gherkin": "~4.17.0",
         "behat/mink-selenium2-driver": "^1.4",
         "dmore/behat-chrome-extension": "^1.3",
         "dmore/chrome-mink-driver": "^2.7",
